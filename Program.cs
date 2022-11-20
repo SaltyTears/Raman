@@ -1,6 +1,7 @@
 ﻿using System.Diagnostics;
 using test;
 
+// Path to File
 string filename = @"C:\Users\Bob\Desktop\test\ST1_Lignin_HT_1.CSV";
 StreamReader reader = new StreamReader(@filename);
 
